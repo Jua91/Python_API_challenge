@@ -16,9 +16,9 @@ The following scatter plots are showcased:
 ![Wind Speed vs Latitude](output_data/lat_vs_windspeed.png)
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
-![NH_temperature_vs_lat](output_data/NH_regression_temperature_vs_lat.png)
+![NH_temperature_vs_lat](output_data/NH_regression_temp_vs_lat.png)
 * Southern Hemisphere - Temperature (F) vs. Latitude
-![SH_temperature_vs_lat](output_data/SH_regression_temperature_vs_lat.png)
+![SH_temperature_vs_lat](output_data/SH_regression_temp_vs_lat.png)
 * Northern Hemisphere - Humidity (%) vs. Latitude
 ![NH_humidity_vs_lat](output_data/NH_regression_humidity_vs_lat.png)
 * Southern Hemisphere - Humidity (%) vs. Latitude
